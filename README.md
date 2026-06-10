@@ -8,14 +8,17 @@ Do I know what I'm doing? No. Has that stopped me? Also no.
 
 ## 🔨 What I'm building
 
-- **Tensura mod contributions** — poking at a NeoForge 1.21.1 Minecraft mod (Java). Currently on speaking terms with Gradle. It hasn't said anything nice back yet.
-- **My own magic mod** — zero plan, remember? Well, one exception: I do want to build my own world, and this is where it starts.
-- **Raphael** — a Discord bot named after the smartest character in *That Time I Got Reincarnated as a Slime*, which sets a bar I will absolutely not clear.
-- **Discord → Plane migration** — a Python pipeline that moves years of chaotic planning channels into an actual project tracker. Teaching past-me some discipline, one API call at a time.
+A bit of everything, honestly. Jack of all trades, master of none — and yes, I know how the full quote ends. I'm counting on it.
+
+- **Minecraft mods** — contributing to the Tensura mod ecosystem (NeoForge, Java) and building my own magic mod. The one ambition I'll admit to: building my own world. This is where it starts.
+- **Discord bots** — Raphael, named after the smartest character in *That Time I Got Reincarnated as a Slime*, which sets a bar I will absolutely not clear. Plus a small fleet of notifier bots.
+- **Automation & pipelines** — like a Python pipeline migrating years of chaotic Discord planning channels into an actual project tracker. Teaching past-me discipline, one API call at a time.
+- **An autonomous trading agent** — it runs on a schedule and makes its own decisions. Whether they're *good* decisions is between it and the market.
+- **Whatever sounds fun this week** — a DIY Digimon tamagotchi, OCR tools for games, a Unity experiment. If it can be automated, scripted, or gamified, there's probably a repo for it.
 
 ## 🧰 Tools I poke at
 
-`Java` · `Python` · `Git` · `Gradle (under protest)` · `REST APIs` · macOS · a truly heroic amount of documentation tabs
+`Java` · `Python` · `JavaScript` · `Git` · `Gradle (under protest)` · `REST APIs` · macOS · a truly heroic amount of documentation tabs
 
 ## 📫 Reach me
 
