@@ -9,6 +9,7 @@ Do I know what I'm doing? No. Has that stopped me? Also no.
 ## 🔨 What I'm building
 
 - **Tensura mod contributions** — poking at a NeoForge 1.21.1 Minecraft mod (Java). Currently on speaking terms with Gradle. It hasn't said anything nice back yet.
+- **My own magic mod** — zero plan, remember? Well, one exception: I do want to build my own world, and this is where it starts.
 - **Raphael** — a Discord bot named after the smartest character in *That Time I Got Reincarnated as a Slime*, which sets a bar I will absolutely not clear.
 - **Discord → Plane migration** — a Python pipeline that moves years of chaotic planning channels into an actual project tracker. Teaching past-me some discipline, one API call at a time.
 
