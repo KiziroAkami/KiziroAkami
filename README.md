@@ -2,7 +2,7 @@
 
 > Status: 🫠 figuring it out as I go
 
-I started coding with exactly zero experience and a very specific dream: making Minecraft mods about a slime. I can *read* code fluently. *Writing* it is a group project between me, the docs, and an AI that has learned to brace itself whenever I say "okay so I had an idea."
+I started coding with exactly zero experience and, honestly, zero plan — none of this was the goal, I just kept saying "how hard can it be?" and ended up here. I can *read* code fluently. *Writing* it is a group project between me, the docs, and an AI that has learned to brace itself whenever I say "okay so I had an idea."
 
 Do I know what I'm doing? No. Has that stopped me? Also no.
 
