@@ -16,15 +16,9 @@ Do I know what I'm doing? No. Has that stopped me? Also no.
 
 `Java` · `Python` · `Git` · `Gradle (under protest)` · `REST APIs` · macOS · a truly heroic amount of documentation tabs
 
-## 📚 Things I've learned the hard way
-
-- Read the actual source code, not the project description. They are frequently two different stories.
-- Respect API rate limits *before* the API makes you respect them.
-- "It works on my machine" hits different when you only have one machine.
-
 ## 📫 Reach me
 
-Right here on GitHub — open an issue, or find me wherever Tensura modding is being discussed. I'm the one asking questions.
+Right here on GitHub — open an issue or drop a comment. I usually respond faster than my builds finish.
 
 ---
 *Built with curiosity, stubbornness, and the unshakeable confidence of someone who has no idea what they're doing.* 🫡
